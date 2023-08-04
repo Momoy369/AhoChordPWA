@@ -1,1 +1,45 @@
-{"name":"AhoChord - Musik dan Sastra","AhoChord - Musik dan Sastra":"","icons":[{"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjus_jFn4r3NX_elPYUupXlc8WVaFZDgIc-gQDR9sOs6PAFJ1vxTTbvChG7r-W_FOyfMn8rkrZHBHAuBsivvBA7EXtiJi_DfLjJzjmW2-qosbysTHpFpyebifTp5Thc_3lEypJaLqC8DLnZeXnU-HgdnZtsbBSnAdpQoGMgxAvFxwnaEqek3ZQ0AgR4sTUH/s1600/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqx99C9D_sWP-jgm5tMKJroEzzFZId7hrOKnBOs5Tp1uphIgAjccS9hTKgRN0gN_E-aol3ATljap5ouf7yKcnacKEQvcfpF1zDNyMB6PuQBXuj3G6_ka9nJ9s5JB0mBvuyZ9Z18xuEGZ-lt5cjbdPwfxT-fPaVSeu6QNZiAEoPTOu9gLHCjac73-kJjqHD/s16000/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone", "prefer_related_applications": false, "start_url":"https://www.ahochord.art"}
+{
+  "name": "AhoChord - Musik dan Sastra",
+  "short_name": "AhoChord",
+  "start_url": "https://www.ahochord.art",
+  "display": "standalone",
+   "background_color": "#ffffff",
+  "theme_color": "#ff0000",
+  "description": "Kumpulan lirik dan kunci gitar lagu Jepang, Barat, dan Indonesia. Tips dan trik kepenulisan sastra, novel, dan puisi. Baca juga kumpulan berita dan opini.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqLSsoq8POXcORBGZmHM67grVcn8c9mEOR5hVPZffZO0MKl_rxE1OwFmonxYTqBGH976SV0WVpDKy0XJD2HeRAlvoY2p4IBwR2dx8GJcErKur6M4nN7cNN2wjHT66CEp8btWJepFXBw2b0x-xwqllLGXyF2Kn3Dw1k8If0A-57h3rR-J17wRh4JzwhL0JN/s1600/favicon-32x32.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE06EdVKJpj9dXpA9GWVDHjH0imN-OZ3kaSJHMUvzp5dKSzjVabnFrIj997k2WAXGZ2qgVJp9QSChL3fGgho10mE-ZaZ7sS3USZMdmEvPuMors4pQVZAo8kHYJxTafE3ksGQYAZ6RvElsjrbeKff4LVPeGg0Wn9fzx_MpyVshSnC0I_gH1nqasgIzhq-L5/s1600/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKsKJH34yBiTQfPsG_N7h3ihOWn7Un384raVuckAELuXE_02lIQQB-hP7QyzachKdvdcPs7cBIgCDCZqbYsA5r30Vwal3CLk_AcVRmxwAwgNidCTbYWXTHKJj-kTUPlke2sGBuago_lciJoyhrscCVYmNzDPNqGAMjRZYE8BBlyLBe1GYztGanxzg9EPRQ/s1600/apple-touch-icon.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKsKJH34yBiTQfPsG_N7h3ihOWn7Un384raVuckAELuXE_02lIQQB-hP7QyzachKdvdcPs7cBIgCDCZqbYsA5r30Vwal3CLk_AcVRmxwAwgNidCTbYWXTHKJj-kTUPlke2sGBuago_lciJoyhrscCVYmNzDPNqGAMjRZYE8BBlyLBe1GYztGanxzg9EPRQ/s1600/apple-touch-icon.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKsKJH34yBiTQfPsG_N7h3ihOWn7Un384raVuckAELuXE_02lIQQB-hP7QyzachKdvdcPs7cBIgCDCZqbYsA5r30Vwal3CLk_AcVRmxwAwgNidCTbYWXTHKJj-kTUPlke2sGBuago_lciJoyhrscCVYmNzDPNqGAMjRZYE8BBlyLBe1GYztGanxzg9EPRQ/s1600/apple-touch-icon.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjus_jFn4r3NX_elPYUupXlc8WVaFZDgIc-gQDR9sOs6PAFJ1vxTTbvChG7r-W_FOyfMn8rkrZHBHAuBsivvBA7EXtiJi_DfLjJzjmW2-qosbysTHpFpyebifTp5Thc_3lEypJaLqC8DLnZeXnU-HgdnZtsbBSnAdpQoGMgxAvFxwnaEqek3ZQ0AgR4sTUH/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqx99C9D_sWP-jgm5tMKJroEzzFZId7hrOKnBOs5Tp1uphIgAjccS9hTKgRN0gN_E-aol3ATljap5ouf7yKcnacKEQvcfpF1zDNyMB6PuQBXuj3G6_ka9nJ9s5JB0mBvuyZ9Z18xuEGZ-lt5cjbdPwfxT-fPaVSeu6QNZiAEoPTOu9gLHCjac73-kJjqHD/s16000/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
