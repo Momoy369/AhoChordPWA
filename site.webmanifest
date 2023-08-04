@@ -6,6 +6,8 @@
    "background_color": "#ffffff",
   "theme_color": "#ff0000",
   "description": "Kumpulan lirik dan kunci gitar lagu Jepang, Barat, dan Indonesia. Tips dan trik kepenulisan sastra, novel, dan puisi. Baca juga kumpulan berita dan opini.",
+"dir": "ltr",
+"prefer_related_applications": "false",
   "icons": [{
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqLSsoq8POXcORBGZmHM67grVcn8c9mEOR5hVPZffZO0MKl_rxE1OwFmonxYTqBGH976SV0WVpDKy0XJD2HeRAlvoY2p4IBwR2dx8GJcErKur6M4nN7cNN2wjHT66CEp8btWJepFXBw2b0x-xwqllLGXyF2Kn3Dw1k8If0A-57h3rR-J17wRh4JzwhL0JN/s1600/favicon-32x32.png",
     "sizes": "36x36",
@@ -41,5 +43,8 @@
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
-  }]
+  }],
+"serviceworker": {
+    "src": "https://www.ahochord.art/sw.js",
+  }
 }
