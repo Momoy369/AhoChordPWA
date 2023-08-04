@@ -46,5 +46,5 @@
   }],
 "serviceworker": {
     "src": "https://www.ahochord.art/sw.js",
-  }
+  },
 }
