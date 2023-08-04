@@ -45,6 +45,6 @@
     "density": "5.0"
   }],
 "serviceworker": {
-    "src": "https://ahochord.art/sw.js",
+    "src": "https://www.ahochord.art/sw.js",
   },
 }
