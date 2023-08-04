@@ -45,6 +45,6 @@
     "density": "5.0"
   }],
 "serviceworker": {
-    "src": "https://ahochord.ronijagat.workers.dev",
+    "src": "https://ahochord.art/sw.js",
   },
 }
